@@ -1,0 +1,13 @@
+Index: app/src/main/res/drawable/modify_dates_dialog.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/modify_dates_dialog.xml b/app/src/main/res/drawable/modify_dates_dialog.xml
+--- a/app/src/main/res/drawable/modify_dates_dialog.xml	
++++ b/app/src/main/res/drawable/modify_dates_dialog.xml	(date 1696065460466)
+@@ -1,4 +1,3 @@
+-
+ <LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
